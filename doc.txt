@@ -3,3 +3,7 @@ test file.
 this
 is
 good
+this 
+is now
+edited
+
